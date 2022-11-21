@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977622006447",
+    "project_id": "newn-9bf3a",
+    "storage_bucket": "newn-9bf3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977622006447:android:503ff248c869f5d07ef25a",
+        "android_client_info": {
+          "package_name": "com.example.newn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977622006447-h4b8n7douf2epsq8g1brp4dh6l1e3ps1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-U90bkQ0V7puv9iDS8gGthqUghtzK6yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977622006447-h4b8n7douf2epsq8g1brp4dh6l1e3ps1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
